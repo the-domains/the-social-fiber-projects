@@ -4,8 +4,22 @@
         <description><![CDATA[The Social Fiber Projects]]></description>
         <link>https://thegrid.ai/the-social-fiber-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-social-fiber-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a07e0c3-0100-4918-8db6-c895fae4a82d.jpg">]]></description>
+            <link>https://thegrid.ai/the-social-fiber-projects/96861142-c0f4-44d2-9705-7769ab85d2ab/index.html</link>
+            <guid isPermaLink="false">96861142-c0f4-44d2-9705-7769ab85d2ab</guid>
+            <pubDate>Mon, 06 Jun 2016 19:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d531b63-1568-491a-a2cd-fea51bf771c7.jpg">]]></description>
+            <link>https://thegrid.ai/the-social-fiber-projects/f8de4160-7b01-4170-812e-1e7dcceece58/index.html</link>
+            <guid isPermaLink="false">f8de4160-7b01-4170-812e-1e7dcceece58</guid>
+            <pubDate>Mon, 06 Jun 2016 19:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c975080-ad30-494c-a4f3-c4400fec042f.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/the-social-fiber-projects/977e76a5-82fb-48d6-9174-f6de7d5d8ed1/index.html</link>
             <guid isPermaLink="false">977e76a5-82fb-48d6-9174-f6de7d5d8ed1</guid>
             <pubDate>Mon, 06 Jun 2016 19:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38dccd0d-bdff-42ea-98d3-bc5f0316c576.jpg">]]></description>
-            <link>https://thegrid.ai/the-social-fiber-projects/5453f0e1-8365-4d6e-871b-72bb5822ede4/index.html</link>
-            <guid isPermaLink="false">5453f0e1-8365-4d6e-871b-72bb5822ede4</guid>
-            <pubDate>Mon, 06 Jun 2016 19:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d42ecf5f-333e-4453-abd9-d1a5afbd1b9a.jpg">]]></description>
-            <link>https://thegrid.ai/the-social-fiber-projects/c2320440-003b-4dd5-a07b-838e4bf793fb/index.html</link>
-            <guid isPermaLink="false">c2320440-003b-4dd5-a07b-838e4bf793fb</guid>
-            <pubDate>Mon, 06 Jun 2016 19:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
