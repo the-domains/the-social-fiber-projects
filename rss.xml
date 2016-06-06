@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Social Fiber Projects]]></title>
         <description><![CDATA[The Social Fiber Projects]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-social-fiber-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:22:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 19:22:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-social-fiber-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/430c2d9f-fbc5-4f07-87e3-9dfe14ed9466.jpg">]]></description>
+            <link>https://thegrid.ai/the-social-fiber-projects/36c12b6b-080f-4cdd-a2aa-bb9b9bdf606d/index.html</link>
+            <guid isPermaLink="false">36c12b6b-080f-4cdd-a2aa-bb9b9bdf606d</guid>
+            <pubDate>Mon, 06 Jun 2016 19:22:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d113793-0ba1-4b13-a545-092a6f6e018e.jpg">]]></description>
-            <link>undefinedef5ba4b8-ce5e-47de-a809-1bb076fa54cc/index.html</link>
+            <link>https://thegrid.ai/the-social-fiber-projects/ef5ba4b8-ce5e-47de-a809-1bb076fa54cc/index.html</link>
             <guid isPermaLink="false">ef5ba4b8-ce5e-47de-a809-1bb076fa54cc</guid>
             <pubDate>Mon, 06 Jun 2016 19:22:08 GMT</pubDate>
         </item>
