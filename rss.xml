@@ -4,8 +4,15 @@
         <description><![CDATA[The Social Fiber Projects]]></description>
         <link>https://thegrid.ai/the-social-fiber-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 19:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:23:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-social-fiber-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/833f043a-f09e-4654-b44d-9b7c8eac1dea.jpg">]]></description>
+            <link>https://thegrid.ai/the-social-fiber-projects/15586cbc-4d11-449d-a431-03b65edb084c/index.html</link>
+            <guid isPermaLink="false">15586cbc-4d11-449d-a431-03b65edb084c</guid>
+            <pubDate>Mon, 06 Jun 2016 19:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4bd92a6-b9e0-4dcf-a786-b9c5bd341c88.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/159d62cc-7c95-41a4-8b08-2b3a05c7f77b.jpg">]]></description>
             <link>https://thegrid.ai/the-social-fiber-projects/d2ed779e-784a-4f47-b4d3-f59439ca7c78/index.html</link>
             <guid isPermaLink="false">d2ed779e-784a-4f47-b4d3-f59439ca7c78</guid>
-            <pubDate>Mon, 06 Jun 2016 19:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb4e0e30-34e8-4adf-ba1a-3765ba34a2d4.jpg">]]></description>
-            <link>https://thegrid.ai/the-social-fiber-projects/b58c735d-c037-4aa1-af2f-19934b25b2ce/index.html</link>
-            <guid isPermaLink="false">b58c735d-c037-4aa1-af2f-19934b25b2ce</guid>
             <pubDate>Mon, 06 Jun 2016 19:23:00 GMT</pubDate>
         </item>
     </channel>
